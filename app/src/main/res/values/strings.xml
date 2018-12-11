@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">微信&amp;支付宝Demo</string>
+    <string name="alipay_pay">支付宝App支付</string>
+    <string name="wx_pay">微信App支付</string>
+    <string name="wechat_login">微信登录</string>
+    <string name="wechat_sendToFriend">微信分享网页给好友</string>
+    <string name="wechat_sendToTimeline">微信分享网页到朋友圈</string>
+    <string name="connection_error">连接出错</string>
+</resources>
